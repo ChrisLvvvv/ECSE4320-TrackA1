@@ -6,12 +6,9 @@ build/
 *.so
 
 # results
-results/raw/*
-results/tables/*
-results/figures/*
-!results/raw/.keep
-!results/tables/.keep
-!results/figures/.keep
+!results/raw/**
+!results/tables/**
+!results/figures/**
 
 # python
 .venv/
